@@ -3,10 +3,10 @@
 - Stats:
 
 
-[![GitHub stats Dark](https://github-readme-stats.vercel.app/api?username=KSpaceer&show_icons=true&theme=dracula&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats Dark](https://github-stats-extended.vercel.app/api?username=KSpaceer&show_icons=true&theme=dracula&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats Light](https://github-readme-stats.vercel.app/api?username=KSpaceer&show_icons=true&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=KSpaceer&layout=donut&size_weight=0.5&count_weight=0.5&hide=Makefile,Roff&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs Dark](https://github-stats-extended.vercel.app/api/top-langs/?username=KSpaceer&layout=donut&size_weight=0.5&count_weight=0.5&hide=Makefile,Roff&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=KSpaceer&layout=donut&size_weight=0.5&count_weight=0.5&hide=Makefile,Roff&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 - Languages:
